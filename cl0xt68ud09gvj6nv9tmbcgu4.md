@@ -177,4 +177,4 @@ As I mentioned before the `background-clip: text` property is not supported in m
 [![yellow-button.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1644160648145/jcCO-V5ENx.png)
 ](https://www.buymeacoffee.com/Kumar_sons_off)
 
-**Published on: 07/02/2022.**
+**Published on: 02/07/2022.**
