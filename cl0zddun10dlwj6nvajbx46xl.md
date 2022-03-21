@@ -121,6 +121,7 @@ If the height of the browser is equal to 1000px, 1vh is equal to 10px, similar f
 
 ### Difference between reset vs normalize CSS? How do they differ?
 𝗥𝗲𝘀𝗲𝘁 𝗖𝗦𝗦 - CSS reset aims to remove all built-in browser styling. **For example**, `paddings`, `margin`, `font-size` of all elements back to the same.
+
 𝗡𝗼𝗿𝗻𝗮𝗹𝗶𝘇𝗲 𝗖𝗦𝗦 - aims to make built-in browser styling consistent across browsers. It also corrects bugs for common browser dependencies.
 
 <hr/>
