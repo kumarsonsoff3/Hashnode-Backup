@@ -97,7 +97,7 @@ It is a tween declaration that defines the final position or the final state of 
 Here is the basic syntax for the `gsap.to` tween:
 
 ```jsx
-gsap.to(".class", {duration: 2, x: 250, y: 100, rotate: 720)
+gsap.to(".class", {duration: 2, x: 250, y: 100, rotate: 720})
 ```
 
 In this one, the `class` is the one which is going to be animated, `duration` defines the time that how long will it take to complete the animation, and you are smart enough to know what the `x`, `y`, `rotate` are. 😉
